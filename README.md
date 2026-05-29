@@ -1,5 +1,5 @@
 # brain-reader
-Currently used by mega-corporations (Like Google mostly), this system enables getting people's thoughs, moods, heart rate, breath rate etc. etc. straight from most basic phone radio hardware.
+Currently used by mega-corporations (Like Google mostly), this system enables getting people's thoughs, brain EEG data, moods, heart rate, breath rate etc. etc. straight from most basic phone radio hardware.
 
 Though not classified publicly, researches show that this system is highly possible and (extremely-possible) currently used.
 
