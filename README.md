@@ -8,3 +8,8 @@ Basically explained, since we are electromagnetic beings; we can get biological 
 For example, you can feed a person's EEG data into an EEG-trained AI model -basically you sit people down and make them think somethings, like "apple"; you feed the AI model the EEG data the person who is currently thinking about word "apple", and you train that AI with thousands of participant data- and get their current thoughts or mood as an output.
 
 Very simple actually. 
+
+So basically, anyone can spy on people through their phone getting their most private thoughts with a simple software on their phone.
+
+If you do not want an AI to know about your most private thoughts you can degoogle your phone.. haha.
+
