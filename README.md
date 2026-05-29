@@ -10,6 +10,3 @@ For example, you can feed a person's EEG data into an EEG-trained AI model -basi
 Very simple actually. 
 
 So basically, anyone can spy on people through their phone getting their most private thoughts with a simple software on their phone. If you do not want an AI to know about your most private thoughts you can degoogle your phone.. haha.
-
-This is NOT a conspiracy theory. IT IS REAL. 
-DO NOT take this as a joke. 
